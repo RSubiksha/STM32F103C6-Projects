@@ -1,0 +1,29 @@
+# Build folders
+Objects/
+Listings/
+
+# Build outputs
+*.o
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+
+# Keil user-specific files
+*.uvoptx
+*.uvguix.*
+*.dbgconf
+
+# Debug configuration
+DebugConfig/
+
+# Proteus workspace files
+*.workspace
+
+# Proteus backup folders
+Project Backups/
+
+# OS files
+Thumbs.db
+.DS_Store
